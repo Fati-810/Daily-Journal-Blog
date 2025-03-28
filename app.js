@@ -35,7 +35,7 @@ Post.countDocuments({})
           content: "This is the first dummy post content to test the layout."
         },
         {
-          title: "Another Dummy Post",
+          title: "Second Dummy Post",
           content: "Here’s another sample blog post to check how multiple posts render."
         }
       ];
