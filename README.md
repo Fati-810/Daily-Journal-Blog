@@ -2,7 +2,7 @@
 Website Description: Daily Journal Blog
 The Daily Journal Blog is a simple blogging platform where users (typically the site owner/admin) can create, view, and read blog posts. It serves as a personal or public journal where entries are displayed with their titles and full content.
 
-# 🔹Features:
+# Features:
 📝 Compose New Posts: Add new blog entries with a title and content.
 
 📃 Homepage Display: Shows a list of blog posts (titles and excerpts).
@@ -13,7 +13,7 @@ The Daily Journal Blog is a simple blogging platform where users (typically the 
 
 🧠 Content Management: Automatically saves posts in memory or a database.
 
-# 🔹 Technical Overview (Behind the Scenes):
+#  Technical Overview (Behind the Scenes):
 
 Frontend: Built with EJS templating, HTML, CSS.
 
