@@ -13,7 +13,7 @@ The Daily Journal Blog is a simple blogging platform where users (typically the 
 
 🧠 Content Management: Automatically saves posts in memory or a database.
 
-#  Technical Overview (Behind the Scenes):
+#  Technical Overview: (Behind the Scenes)
 
 Frontend: Built with EJS templating, HTML, CSS.
 
