@@ -23,7 +23,7 @@ Routing: Uses Express routes for dynamic content (/compose, /posts/:postName).
 
 Database: Uses MongoDB.
 
-
+#Link: https://daily-journal-blog.onrender.com/
 
 
 
