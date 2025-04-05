@@ -1,5 +1,4 @@
 # Daily Journal Blog
-Website Description: Daily Journal Blog
 The Daily Journal Blog is a simple blogging platform where users (typically the site owner/admin) can create, view, and read blog posts. It serves as a personal or public journal where entries are displayed with their titles and full content.
 
 # Features:
