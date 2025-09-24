@@ -1,5 +1,5 @@
 # Daily Journal Blog
-The Daily Journal Blog is a simple blogging platform where users (typically the site owner/admin) can create, view, and read blog posts. It serves as a personal or public journal where entries are displayed with their titles and full content.
+The Daily Journal Blog is a **simple blogging platform** where users (typically the site owner/admin) can create, view, and read blog posts. It serves as a personal or public journal where entries are displayed with their titles and full content.
 
 # Features:
 📝 Compose New Posts: Add new blog entries with a title and content.
@@ -18,7 +18,7 @@ Frontend: Built with EJS templating, HTML, CSS.
 
 Backend: Powered by Node.js and Express.
 
-Routing: Uses Express routes for dynamic content (/compose, /posts/:postName).
+Routing: Uses Express routes for dynamic content.
 
 Database: Uses MongoDB.
 
